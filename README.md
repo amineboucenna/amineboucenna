@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amineboucenna
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on nothing rn
+- 🌱 java/python/web programmer
+- 💻 I’m open to collaborate on any project
 - 📫 How to reach me : boucennaamine@yahoo.com
 
 <!---
