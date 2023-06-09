@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/amineboucenna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amineboucenna" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/17109010/amine"><img src="https://stackoverflow.com/users/flair/17109010.png" width="208" height="58" alt="profile for Amine at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Amine at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
