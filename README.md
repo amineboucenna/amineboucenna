@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amineboucenna" alt="amineboucenna" /></a> </p>
 
-- 🔭 I’m currently working on **TALAA-BARAQA : An arabic crowdsourcing platform for different ressources (manuscripts,Questions contextes answers,Translation)**
+- 🔭 I’m currently working on **TALAA-BARAQA : An arabic crowdsourcing platform with different ressources (manuscripts,Questions contextes answers,Translations)**
 
 - 📫 How to reach me **boucennaamine1@gmail.com**
 
