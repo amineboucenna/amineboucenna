@@ -1,13 +1,13 @@
 ![banner](https://indoanalytica.com/static/images/bannerr.gif)
 
 <h1 align="center">Hi 👋, I'm Amine Boucenna</h1>
-<h3 align="center">An Algerian web developer who employs the power of AI/ML in my projects.</h3>
+<h3 align="center">An Algerian web developer who employs the power of AI/ML in his projects.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amineboucenna&label=Profile%20views&color=0e75b6&style=flat" alt="amineboucenna" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amineboucenna" alt="amineboucenna" /></a> </p>
 
-- 🔭 I’m currently working on **talaa-barqaa**
+- 🔭 I’m currently working on **TALAA-BARAQA : An arabic crowdsourcing platform for different ressources (manuscripts,Questions contextes answers,Translation)**
 
 - 📫 How to reach me **boucennaamine1@gmail.com**
 
