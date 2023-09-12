@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Amine Boucenna</h1>
 <h3 align="center">An Algerian developer who employs the power of AI in his projects.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=amineboucenna&label=Profile%20views&color=0e75b6&style=flat" alt="amineboucenna" /> </p>
+#<p align="center"> <img src="https://komarev.com/ghpvc/?username=amineboucenna&label=Profile%20views&color=0e75b6&style=flat" alt="amineboucenna" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amineboucenna" alt="amineboucenna" /></a> </p>
+#<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amineboucenna" alt="amineboucenna" /></a> </p>
 
 - 🔭 I’m currently working on **TALAA-BARAQA : An arabic crowdsourcing platform with different ressources (manuscripts,Questions Contextes Answers,Translations)**
 
